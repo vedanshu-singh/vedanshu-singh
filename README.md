@@ -93,10 +93,10 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 | Title | Type | Publisher | Year |
 |---|---|---|---|
-| [*From Prediction to Prognosis: Explainable Machine Learning for Obesity Risk Classification*](https://doi.org/10.1109/EmergIN67762.2025.11450747) | Research Publication | IEEE Xplore | 2026 |
+| From Prediction to Prognosis: Explainable Machine Learning for Obesity Risk Classification | Research Publication | [*IEEE Xplore*](https://doi.org/10.1109/EmergIN67762.2025.11450747) | 2026 |
 
 </div>
----
+
 
 ## 🎓 Certifications
 
