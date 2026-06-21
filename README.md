@@ -61,7 +61,6 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📈 Visualization & BI Tools
 
@@ -98,9 +97,7 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 | Title | Type | Publisher | Year |
 |---|---|---|---|
-| *“From Prediction to Prognosis: Explainable Analytics for Risk Classification”* | Research Publication | IEEE Xplore | 2026 |
-| *[Add Article Title]* | Technical Blog | *[Add Platform]* | *[Year]* |
-| *[Add Write-up Title]* | Analytics Write-up | *[Add Platform]* | *[Year]* |
+| *“From Prediction to Prognosis: Explainable Machine Learning for Obesity Risk Classification”* | Research Publication | IEEE Xplore | 2026 |
 
 </div>
 
@@ -126,7 +123,6 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 | Data Analyst Associate | DataCamp | ✅ Completed (2026) |
 | Google AI Essentials | Google | ✅ Completed (2024) |
 | Google Data Analytics Professional Certificate | Google | 🔄 In Progress (2026) |
-| *[Add Certification]* | *[Add Issuer]* | *[Status]* |
 
 </div>
 
@@ -139,7 +135,6 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 [![Email](https://img.shields.io/badge/Email-vedanshus.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanshus.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedanshu_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vedanshusingh)
 [![GitHub](https://img.shields.io/badge/GitHub-vedanshusingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanshusingh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
