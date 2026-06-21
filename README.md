@@ -10,8 +10,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vedanshusingh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanshusingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshusingh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanshu-singh)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanshus.work@gmail.com)
 
 </div>
@@ -123,8 +123,8 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vedanshus.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanshus.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedanshu_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vedanshusingh)
-[![GitHub](https://img.shields.io/badge/GitHub-vedanshusingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanshusingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedanshu_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshusingh/)
+[![GitHub](https://img.shields.io/badge/GitHub-vedanshusingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedanshu-singh)
 
 </div>
 
