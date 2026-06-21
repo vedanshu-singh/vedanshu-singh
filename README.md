@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Vedanshu Singh
 
@@ -38,11 +38,10 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 | 📁 Analytics Projects | 📊 Dashboards Built | 🗃️ SQL Analyses | 💼 Business Case Studies | 📉 Visualizations Created |
 |:---:|:---:|:---:|:---:|:---:|
-| **08+** | **05+** | **20+** | **04+** | **30+** |
+| **4+** | **4+** | **20+** | **2+** | **20+** |
 
 </div>
 
-> *Note: Metrics above are placeholders and are intended to be updated dynamically as new work is completed.*
 
 ---
 
@@ -67,9 +66,6 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -82,7 +78,7 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
+
 
 ### 🔧 Version Control
 
@@ -97,7 +93,7 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 | Title | Type | Publisher | Year |
 |---|---|---|---|
-| *“From Prediction to Prognosis: Explainable Machine Learning for Obesity Risk Classification”* | Research Publication | IEEE Xplore | 2026 |
+| *“From Prediction to Prognosis: Explainable Machine Learning for Obesity Risk Classification”* | Research Publication | IEEE Xplore(https://doi.org/10.1109/EmergIN67762.2025.11450747) | 2026 |
 
 </div>
 
@@ -109,11 +105,6 @@ I'm a results-driven **Data Analyst** with a strong foundation in transforming r
 
 [![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 [![DataCamp Data Analyst](https://img.shields.io/badge/DataCamp_Data_Analyst-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](#)
-[![Microsoft Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![SQL Certification](https://img.shields.io/badge/SQL_Certification-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Tableau Certification](https://img.shields.io/badge/Tableau_Certification-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
-[![Excel Certification](https://img.shields.io/badge/Excel_Certification-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
-
 </div>
 
 <div align="center">
